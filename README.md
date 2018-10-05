@@ -21,8 +21,8 @@ Learn how to implement front-end and back-end of website.
 Learn Flask, front end via Youtube
 
 Broadly:-
-Back end: Ishan, Prabhat
-Front end: Sanyam, Archit
+Back end: Ishan, Prabhat, Sanyam
+Front end: Archit
 
 
 PHASE 1
