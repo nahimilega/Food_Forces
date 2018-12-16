@@ -5,27 +5,18 @@ Food Collaboration | IIIT-D Web App
 
 https://drive.google.com/open?id=13vzZeFy_U2VuEpQwbBfQZTtEzDEYEt_r
 
-Team: Sanyam (Leader xD), Archit, Ishan, Prabhat
-
-Mentor advice: Do UI properly.
+Team: Archit, Prabhat
 
 
 Login with IIIT-D email users only.
 For now, we will give option of only 10 restaraunts
 A web app, not a mobile app
 Front end: HTML/CSS/JS
-Back end: Flask (Python3)
+Back end: Django
 
 Objective: Connect 2 or more people in IIIT-D, based on need of food delivery from same restaurant.
+
 Uses: To take advantage of promotional offers + Meet minimum delivery requirements
-
-To-Do List:
-Learn how to implement front-end and back-end of website.
-Learn Flask, front end via Youtube
-
-Broadly:-
-Back end: Ishan, Prabhat, Sanyam
-Front end: Archit
 
 
 PHASE 1
@@ -41,7 +32,6 @@ You hit enter
 8. Notification will be sent to everybody who wants to order from Dominos if o. Of people interested >= 2
 9. Name of the other person will appear
 10. You can click and chat with the person
-11. The end
 
 PHASE 2 IDEAS
 Abiltity to show interest, matching with other users
