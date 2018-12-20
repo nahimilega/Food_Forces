@@ -16,6 +16,9 @@ class order(models.Model):
     
     resturant_name=models.CharField(max_length=2500)
     offer_description=models.CharField(max_length=2500)
+    #mobile_no=models.BigIntegerField()
+    Target_value=models.IntegerField()
+    #Waiting_time=
 
     def get_absolute_url(self):
         return reverse("mainpage:index")

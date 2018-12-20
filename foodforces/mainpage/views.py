@@ -39,7 +39,7 @@ class detail(generic.DetailView):
 
 class add_order(CreateView):
 	model=order
-	fields=['resturant_name','offer_description']
+	fields=['resturant_name','offer_description','Target_value']
 
 
 class orderDeleteView(DeleteView):
