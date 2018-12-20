@@ -1,22 +1,7 @@
-# Byld_Hackthon
-
-Food Collaboration | IIIT-D Web App
-
-
-https://drive.google.com/open?id=13vzZeFy_U2VuEpQwbBfQZTtEzDEYEt_r
-
-Team: Archit, Prabhat
-
-
+Changes to make:-
 Login with IIIT-D email users only.
 For now, we will give option of only 10 restaraunts
 A web app, not a mobile app
-Front end: HTML/CSS/JS
-Back end: Django
-
-Objective: Connect 2 or more people in IIIT-D, based on need of food delivery from same restaurant.
-
-Uses: To take advantage of promotional offers + Meet minimum delivery requirements
 
 
 PHASE 1
@@ -38,18 +23,29 @@ Abiltity to show interest, matching with other users
 
 
 
+Front-end HTML resources:-
+https://developers.google.com/identity/sign-in/web/
+https://stackoverflow.com/questions/6235735/how-to-add-social-login-services-from-google-facebook-yahoo-etc-to-my-website
 
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Byld Hackathon App
+Food Collaboration | IIIT-D Web App | FoodForces
+Team : Archit, Prabhat
+
+GitHub project link : https://github.com/nahimilega/Byld_Hackthon
+Old : https://drive.google.com/open?id=13vzZeFy_U2VuEpQwbBfQZTtEzDEYEt_r
+
+Front end : HTML/CSS/JS
+Back end : Django
+
+Idea : If you want to order from Dominos, but they have a 1+1 offer on medium pizzas. If you're ordering alone, you can't avail this offer. This app attempts to connect 2 or more people in IIIT-D based on need of food delivery from same restaurant
+Objective : To connect 2 or more people in IIIT-D based on need of food delivery from same restaurant
+Advantage to Uses: Using this app, they can take advantage of promotional offers, meet minimum delivery requirements etc.
+
+Structure:-
 - Page 1: Home screen - Gmail authentication link
 - Page 2: List of restaraunts - you can choose restaraunt, how much will you order of, etc
 - Page 3: List of people who are already wanting that restaurant, else no
-
-Idea: Food delivery - combining people and ordering together in order to meet minimum delivery requirement, promotional offers, etc.
-
-
-
-
-
-frontend html resources:-
-https://developers.google.com/identity/sign-in/web/
-https://stackoverflow.com/questions/6235735/how-to-add-social-login-services-from-google-facebook-yahoo-etc-to-my-website
