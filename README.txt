@@ -39,6 +39,17 @@ Abiltity to show interest, matching with other users
 
 
 
+
+- Page 1: Home screen - Gmail authentication link
+- Page 2: List of restaraunts - you can choose restaraunt, how much will you order of, etc
+- Page 3: List of people who are already wanting that restaurant, else no
+
+Idea: Food delivery - combining people and ordering together in order to meet minimum delivery requirement, promotional offers, etc.
+
+
+
+
+
 frontend html resources:-
 https://developers.google.com/identity/sign-in/web/
 https://stackoverflow.com/questions/6235735/how-to-add-social-login-services-from-google-facebook-yahoo-etc-to-my-website
