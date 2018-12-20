@@ -35,3 +35,10 @@ You hit enter
 
 PHASE 2 IDEAS
 Abiltity to show interest, matching with other users
+
+
+
+
+frontend html resources:-
+https://developers.google.com/identity/sign-in/web/
+https://stackoverflow.com/questions/6235735/how-to-add-social-login-services-from-google-facebook-yahoo-etc-to-my-website
