@@ -1,0 +1,17 @@
+
+<form method="post" enctype="multipart/form-data">
+{% csrf_token %}
+{% for field in form %}
+
+    {{field.error}}
+
+    <label>
+    {{field.label_tag}}
+    </label>
+    {{field}}
+    <br>
+{% endfor %}
+
+<input type="submit" value="a button">
+
+</form>

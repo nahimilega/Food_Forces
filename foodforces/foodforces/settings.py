@@ -32,6 +32,7 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     'mainpage.apps.MainpageConfig',
+    'landingpage.apps.LandingpageConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',

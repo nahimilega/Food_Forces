@@ -20,4 +20,5 @@ from django.contrib import admin
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^mainpage/', include('mainpage.urls')),
+    url(r'^landingpage/', include('landingpage.urls')),
 ]
